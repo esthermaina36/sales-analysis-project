@@ -66,5 +66,14 @@ Detailed findings are documented in [`reports/sql_analysis_notes.md`](reports/sq
 
 <img width="771" height="433" alt="image" src="https://github.com/user-attachments/assets/19ca1d56-bdb6-49b8-acc4-6aee1e4dfac4" />
 
+<img width="753" height="429" alt="image" src="https://github.com/user-attachments/assets/6adf3dba-41e6-4de6-8342-2a0e835d42b3" />
+
+<img width="767" height="432" alt="image" src="https://github.com/user-attachments/assets/ac46eee9-1198-4595-8e93-c47e7fa96399" />
+
+<img width="737" height="431" alt="image" src="https://github.com/user-attachments/assets/ee7159b9-be8d-4d95-9249-346345c01299" />
+
+
+
+
 
 
