@@ -62,6 +62,9 @@ Workflow and Progress
   - Product and customer profit contribution.
   - Product performance by sales channel.
 Detailed findings are documented in [`reports/sql_analysis_notes.md`](reports/sql_analysis_notes.md), and the queries are available in [`sql/02_sales_analysis.sql`](sql/02_sales_analysis.sql).
-3. Power BI: Dashboard Development
+3. Power BI: Dashboard
+
+<img width="771" height="433" alt="image" src="https://github.com/user-attachments/assets/19ca1d56-bdb6-49b8-acc4-6aee1e4dfac4" />
+
 
 
